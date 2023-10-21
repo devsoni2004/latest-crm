@@ -1,0 +1,15 @@
+{
+    "name": "devashish/b2b",
+    "autoload": {
+        "psr-4": {
+            "Devashish\\B2b\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devsoni2004",
+            "email": "vipbrothers92@gmail.com"
+        }
+    ],
+    "require": {}
+}
